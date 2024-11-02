@@ -1,3 +1,6 @@
+To measure the runtime of your code and save it to a ```.txt``` file, you can use Python's ```time``` module to capture the start and end times. Here’s a sample way to do it:
+
+
 ```python
 import time
 
