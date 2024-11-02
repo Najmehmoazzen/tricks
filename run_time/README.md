@@ -1,4 +1,4 @@
-```
+```python
 import time
 
 # Start the timer
